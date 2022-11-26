@@ -48,6 +48,7 @@
     -ms-filter: grayscale(100%);
     -o-filter: grayscale(100%);
     transition: all ease 0.5s;
+    
   }
   
   .avatar img:hover {
