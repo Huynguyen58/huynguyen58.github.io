@@ -9,13 +9,10 @@ div.scrollmenu a {
   display: inline-block;
   color: white;
   text-align: center;
-  padding: 20px;
+  padding: 14px;
   text-decoration: none;
 }
 
 div.scrollmenu a:hover {
   background-color: #777;
-}
-body {
-  background-image: url(cof.jpg);
 }
